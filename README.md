@@ -1,5 +1,5 @@
 ## ¡Hola!
-Este GitHub está dedicado a proyectos universitarios. Si deseas ver mi GitHub personal, [haz click acá](https://github.com/oscaroicm/).
+Este GitHub está dedicado a proyectos universitarios. Si deseas ver mi GitHub personal, [haz click acá](https://github.com/oscaroicm/).\
 Si deseas ver mi portafolio, [haz click acá](https://teclab.uct.cl/~oscar.cariaga/portafolio).
 <!--
 **Oscar-UCT/oscar-uct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
